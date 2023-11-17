@@ -1,0 +1,5 @@
+/* Hide Planyo logo */
+#header .navbar-brand img {
+    display: none !important;
+    visibility: hidden;
+}
